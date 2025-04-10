@@ -6,7 +6,7 @@
   },
   "name": "simpleblockchain",
   "version": "1.0.0",
-  "main": ".eslintrc.js",
+  "main": "blockchain.js",
   "directories": {
     "test": "tests"
   },
@@ -16,5 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
   "description": ""
 }
