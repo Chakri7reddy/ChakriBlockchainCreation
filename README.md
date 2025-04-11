@@ -3,7 +3,7 @@
 
 ## 📖 Overview
 
-This project is a simple blockchain simulation built using **Node.js**, designed to demonstrate understanding of core blockchain concepts like block linking, hashing, validation, and optional proof-of-work.To view in real UI-based interaction check this https://blockchain-frontend-eosin.vercel.app/
+This project is a simple blockchain simulation built using **Node.js**, designed to demonstrate understanding of core blockchain concepts like block linking, hashing, validation, and optional proof-of-work.To view in real UI-based interaction check this https://blockchain-frontend-eosin.vercel.app/   which made using SimpleBlockchain code as Blockchain-Frontend using Angular.
 
 The project fulfills the requirements of the assignment by implementing:
 
