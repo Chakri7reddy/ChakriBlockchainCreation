@@ -30,7 +30,7 @@ class Transaction {
   }
 
   /**
-   * Signs a transaction with the given signingKey (which is an Elliptic keypair
+   * Signs a transaction with the given signingKey (which is an Elliptic keypair algo
    * object that contains a private key). The signature is then stored inside the
    * transaction object and later stored on the blockchain.
    *
