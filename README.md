@@ -16,7 +16,7 @@ The project fulfills the requirements of the assignment by implementing:
 
 ## 🎯 Objective
 
-> Simulate the core features of a blockchain to understand how block data, cryptographic hashes, and validation work together to ensure blockchain integrity.
+> Simulate the core features of a blockchain to understand how block data, cryptographic hashes, and validation work together to ensure and maintain blockchain integrity.
 
 ## 🛠️ Tech Stack
 
